@@ -6,7 +6,23 @@ Reverse engineering the Minecraft mod malware being distributed by Geekbone.
 ## Table of Contents ##
 
 * [Geekbone Minecraft Mod Malware Reverse Engineering](#geekbone-minecraft-mod-malware-reverse-engineering)
+    * [⚠️ Warning ⚠️](#️-warning-️)
     * [License](#license)
+
+## ⚠️ Warning ⚠️ ##
+
+**Please read the following carefully!**
+
+This repository is being used to reverse engineer malware.
+
+Files inside this repository should be considered hostile at all times, even
+after being unpacked, deobfuscated, reverse engineered, etc.
+
+Do **NOT** run them, download them, etc. on a system unless you:
+
+* know what you're doing.
+* do not care about that system or any data on it.
+* do not have any personal and/or sensitive information/data on that system.
 
 ## License ##
 
